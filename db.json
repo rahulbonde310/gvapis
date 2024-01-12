@@ -17,6 +17,7 @@
     {
       "name": "King Headboard with Floating Nightstands",
       "specno": "GR-322-CG",
+      "qty":1,
       "price": "375.84",
       "unit": "EA",
       "category": "king",
@@ -37,6 +38,7 @@
       "name": "TV Panel",
       "specno": "GR-321-CG",
       "price": "182.52",
+      "qty":2,
       "unit": "EA",
       "category": "king",
       "image": "assets/products/two.png",
@@ -55,6 +57,7 @@
     {
       "name": "Combo Unit - Left/Right",
       "specno": "GR-324-CG",
+      "qty":1,
       "price": "624.24",
       "unit": "EA",
       "category": "king",
@@ -74,6 +77,7 @@
     {
       "name": "Bathroom Vanity Base, ADA",
       "specno": "GR-332-CG",
+      "qty":1,
       "price": "304.56",
       "unit": "EA",
       "category": "king",
