@@ -16,6 +16,836 @@
   "allProducts": [
     {
       "category": "CASE GOODS",
+      "image": "assets/king/GR-322-CG.png",
+      "specno": "GR-322-CG",
+      "name": "King Headboard with Floating Nightstands",
+      "price": 375.84,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Standard Room",
+        "King Suite Room",
+        "Double Queen Extended",
+        "King Roll-in-shower ADA",
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 1
+    },
+    {
+      "category": "CASE GOODS",
+      "image": "assets/king/GR-321-CG.png",
+      "specno": "GR-321-CG",
+      "name": "TV Panel",
+      "price": 182.52,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Standard Room",
+        "King Suite Room",
+        "Double Queen Room",
+        "Double Queen Extended",
+        "King Roll-in-shower ADA",
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 2
+    },
+    {
+      "category": "CASE GOODS",
+      "image": "assets/king/GR-324-CG.png",
+      "specno": "GR-324-CG",
+      "name": "Combo Unit - Left/Right",
+      "price": 624.24,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Suite Room",
+        "Double Queen Room",
+        "Double Queen Extended",
+        "King Roll-in-shower ADA",
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 3
+    },
+    {
+      "category": "CASE GOODS",
+      "image": "assets/king/GR-332-CG.png",
+      "specno": "GR-332-CG",
+      "name": "Bathroom Vanity Base, ADA",
+      "price": 304.56,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Suite Room",
+        "King Roll-in-shower ADA",
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 4
+    },
+    {
+      "category": "CASE GOODS",
+      "image": "assets/king/GR-332-ST.png",
+      "specno": "GR-332-ST",
+      "name": "Quartz top @ Bathroom Vanity ADA",
+      "price": 163.16,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Suite Room",
+        "King Roll-in-shower ADA",
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 5
+    },
+    {
+      "category": "LIGHTING",
+      "images": "assets/king/GR-500-LT.png",
+      "specno": "GR-500-LT",
+      "name": "Sconce at Combo Unit (Desk)",
+      "price": 55.54,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Standard Room",
+        "King Suite Room",
+        "Double Queen Room",
+        "Double Queen Extended",
+        "King Roll-in-shower ADA",
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 6
+    },
+    {
+      "category": "LIGHTING",
+      "images": "assets/king/GR-502-LT.png",
+      "specno": "GR-502-LT",
+      "name": "Sconce at QQ Headboard",
+      "price": 84.42,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "Double Queen Room",
+        "Double Queen Extended",
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 7
+    },
+    {
+      "category": "SEATING",
+      "images": "assets/king/GR-202.A.F1-SGF.png",
+      "specno": "GR-202.A.F1-SGF",
+      "name": "Upholstery at Task Chair",
+      "price": 11.25,
+      "brand":"Wingate",
+      "unit": "YSD",
+      "qty": 2,
+      "roomCategory": [
+        "Double Queen Room",
+        "Double Queen Extended",
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 8
+    },
+    {
+      "category": "LIGHTING",
+      "images": "assets/king/GR-501-LT.png",
+      "specno": "GR-501-LT",
+      "name": "Sconce at King Headboard",
+      "price": 43.40,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 2,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Standard Room",
+        "King Suite Room",
+        "King Roll-in-shower ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 9
+    },
+    {
+      "category": "LIGHTING",
+      "specno": "GR-504-LT",
+      "image":"assets/king/GR-504-LT.png",
+      "name": "Floor Lamp at King + QQ Room",
+      "price": 87.49,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Standard Room",
+        "King Suite Room",
+        "Double Queen Room",
+        "Double Queen Extended",
+        "King Roll-in-shower ADA",
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 10
+    },
+    {
+      "category": "SEATING",
+      "specno": "GR-200-SG",
+      "image":"assets/king/GR-200-SG.png",
+      "name": "Upholstered Lounge Chair",
+      "price": 262.5,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Standard Room",
+        "King Suite Room",
+        "Double Queen Room",
+        "Double Queen Extended",
+        "King Roll-in-shower ADA",
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 11
+    },
+    {
+      "category": "SEATING",
+      "specno": "GR-200.F1-SGF",
+      "image":"assets/king/GR-200.F1-SGF.png",
+      "name": "Fabric @ Lounge Chair Seat",
+      "price": 6.68,
+      "brand":"Wingate",
+      "unit": "YA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Standard Room",
+        "King Suite Room",
+        "Double Queen Room",
+        "Double Queen Extended",
+        "King Roll-in-shower ADA",
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 12
+    },
+    {
+      "category": "SEATING",
+      "image":"assets/king/GR-200.F2-SGF.png",
+      "specno": "GR-200.F2-SGF",
+      "name": "Fabric @ Lounge Chair Inside Back",
+      "price": 6.88,
+      "brand":"Wingate",
+      "unit": "YA",
+      "qty": 2,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Standard Room",
+        "King Suite Room",
+        "Double Queen Room",
+        "Double Queen Extended",
+        "King Roll-in-shower ADA",
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 13
+    },
+    {
+      "category": "SEATING",
+      "image": "assets/king/GR-200.F3-SGF.png",
+      "specno": "GR-200.F3-SGF",
+      "name": "Fabric @ Lounge Chair Outside Back",
+      "price": 6.88,
+      "brand":"Wingate",
+      "unit": "YA",
+      "qty": 2,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Standard Room",
+        "King Suite Room",
+        "Double Queen Room",
+        "Double Queen Extended",
+        "King Roll-in-shower ADA",
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 14
+    },
+    {
+      "category": "SEATING",
+      "image": "assets/king/GR-202-SG.png",
+      "specno": "GR-202-SG",
+      "name": "Task Chair",
+      "price": 119.00,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Suite Room",
+        "King Roll-in-shower ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 15
+    },
+    {
+      "category": "SEATING",
+      "image": "assets/king/GR-202.F1-SGF.png",
+      "specno": "GR-202.F1-SGF",
+      "name": "Upholstery at Task Chair ",
+      "price": 11.25,
+      "brand":"Wingate",
+      "unit": "YA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Suite Room",
+        "King Roll-in-shower ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 16
+    },
+    {
+      "category": "LVT FLOORING",
+      "image": "assets/king/LVT-01E.png",
+      "specno": "LVT-01E",
+      "name": "LVT @ Guestroom",
+      "price": 1.65,
+      "brand":"Wingate",
+      "unit": "SQFT",
+      "qty": 191,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Standard Room",
+        "King Suite Room",
+        "Double Queen Room",
+        "Double Queen Extended",
+        "King Roll-in-shower ADA",
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 17
+    },
+    {
+      "category": "LVT FLOORING",
+      "image":"assets/king/RB-01E.png",
+      "specno": "RB-01E",
+      "name": "Resilient Base @ Entire Guest Room",
+      "price": 0.85,
+      "brand":"Wingate",
+      "unit": "LF",
+      "qty": 84,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Suite Room",
+        "King Roll-in-shower ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 18
+    },
+    {
+      "category": "ARTWORK",
+      "specno": "GR-100-ART",
+      "image":"assets/king/GR-100-ART.png",
+      "name": "Large Art @Combo Unit - Pairing Option 1",
+      "price": 43.96,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Standard Room",
+        "King Suite Room",
+        "King Roll-in-shower ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 19
+    },
+    {
+      "category": "ARTWORK",
+      "specno": "GR-101-ART",
+      "image":"assets/king/GR-101-ART.png",
+      "name": "Small Art @Combo Unit - Pairing Option 1",
+      "price": 20.91,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Standard Room",
+        "King Suite Room",
+        "King Roll-in-shower ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 20
+    },
+    {
+      "category": "ARTWORK",
+      "specno": "GR-104-ART",
+      "image":"assets/king/GR-104-ART.png",
+      "name": "Art at Window Wall",
+      "price": 27.05,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Standard Room",
+        "King Suite Room",
+        "Double Queen Room",
+        "Double Queen Extended",
+        "King Roll-in-shower ADA",
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 21
+    },
+    {
+      "category": "ARTWORK",
+      "image":"assets/king/GR-105-ART.png",
+      "sepcno":"GR-105-ART",
+      "name": "Art at Bathroom",
+      "price": 16.19,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Standard Room",
+        "King Suite Room",
+        "Double Queen Room",
+        "Double Queen Extended",
+        "King Roll-in-shower ADA",
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 22
+    },
+    {
+      "category": "WINDOW TREATMENTS_ 54 W X 60 H",
+      "specno":"GR-401-WT",
+      "image":"assets/king/GR-401-WT.png",
+      "name": "Window Treatment Dual Manual Roller Shade",
+      "price": 317.25,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Standard Room",
+        "King Suite Room",
+        "Double Queen Room",
+        "Double Queen Extended",
+        "King Roll-in-shower ADA",
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 23
+    },
+    {
+      "category": "WINDOW TREATMENTS_ 54 W X 60 H",
+      "image":"assets/king/GR-400-WT.png",
+      "specno":"GR-400-WT",
+      "name": "Window Treatment Panel Fabrication",
+      "price": 195.75,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Standard Room",
+        "King Suite Room",
+        "Double Queen Room",
+        "Double Queen Extended",
+        "King Roll-in-shower ADA",
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id":24
+    },
+    {
+      "category": "BEDDING",
+      "image":"assets/king/GR-605-BD.png",
+      "specno":"GR-605-BD",
+      "name": "ADA Queen Bed Skirt",
+      "price": 45.26,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 2,
+      "roomCategory": [
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 25
+    },
+    {
+      "category": "BEDDING",
+      "image":"assets/king/GR-603-BD.png",
+      "specno":"GR-603-BD",
+      "name": "Queen Box Spring Cover",
+      "price": 45.26,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 2,
+      "roomCategory": [
+        "Double Queen Room",
+        "Double Queen Extended"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 26
+    },
+    {
+      "category": "BEDDING",
+      "image":"assets/king/GR-601-BD.png",
+      "specno":"GR-601-BD",
+      "name": "Queen Top of Bed",
+      "price": 30.53,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 2,
+      "roomCategory": [
+        "Double Queen Room",
+        "Double Queen Extended",
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 27
+    },
+    {
+      "category": "BEDDING",
+      "image":"assets/king/OSE-607-BD.png",
+      "specno":"OSE-609-BD",
+      "name": "ADA Queen Bed Skirt",
+      "price": 84.74,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 2,
+      "roomCategory": [
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 28
+    },
+    {
+      "category": "BEDDING",
+      "image":"assets/king/OSE-607-BD.png",
+      "specno":"OSE-607-BD",
+      "name": "Queen Bed Base",
+      "price": 84.74,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 2,
+      "roomCategory": [
+        "Double Queen Room",
+        "Double Queen Extended"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 29
+    },
+    {
+      "category": "BEDDING",
+      "image":"assets/king/GR-604-BD.png",
+      "specno":"GR-604-BD",
+      "name": "ADA King Bedskirt",
+      "price": 47.37,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Suite Room",
+        "King Roll-in-shower ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 30
+    },
+    {
+      "category": "BEDDING",
+      "image":"assets/king/GR-600-BD.png",
+      "specno":"GR-600-BD",
+      "name": "King Top of Bed",
+      "price": 0,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Standard Room",
+        "King Suite Room",
+        "King Roll-in-shower ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 31
+    },
+    {
+      "category": "BEDDING",
+      "image":"assets/king/OSE-608-BD.png",
+      "specno":"OSE-608-BD",
+      "name": "ADA King Bed Frame",
+      "price": 98.37,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Suite Room",
+        "King Roll-in-shower ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 32
+    },
+    {
+      "category": "MIRROR",
+      "image":"assets/king/GR-800-MR.png",
+      "specno":"GR-800-MR",
+      "name": "Full Length Mirror",
+      "price": 93.15,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Suite Room",
+        "King Roll-in-shower ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 33
+    },
+    {
+      "category": "MIRROR",
+      "image":"assets/king/GR-506-LT.png",
+      "specno":"GR-506-LT",
+      "name": "Back Lit Mirror @ Vanity",
+      "price": 144.36,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Standard Room",
+        "King Suite Room",
+        "Double Queen Room",
+        "Double Queen Extended",
+        "King Roll-in-shower ADA",
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 34
+    },
+    {
+      "category": "CARPET & RUGS",
+      "image":"assets/king/CCP-01E.png",
+      "specno":"CP-01E",
+      "name": "Inset Carpet @ Guest Room",
+      "price":12.94,
+      "brand":"Wingate",
+      "unit": "SY",
+      "qty": 13,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Suite Room",
+        "Double Queen Room",
+        "Double Queen Extended",
+        "King Roll-in-shower ADA",
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 35
+    },
+    {
+      "category": "CARPET & RUGS",
+      "image":"assets/king/CPP-01.png",
+      "specno":"CPP-01",
+      "name": "Carpet Pad @ Guestroom ",
+      "price": 1.71,
+      "brand":"Wingate",
+      "unit": "SY",
+      "qty": 9,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Suite Room",
+        "Double Queen Room",
+        "Double Queen Extended",
+        "King Roll-in-shower ADA",
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 36
+    },
+    {
+      "category": "WALL COVERINGS",
+      "specno":"WC-01E",
+      "image": "assets/king/WC-01E.png",
+      "name": "Wallcovering @ Guestroom",
+      "price": 5.21,
+      "brand":"Wingate",
+      "unit": "LY",
+      "qty": 21,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Suite Room",
+        "Double Queen Room",
+        "Double Queen Extended",
+        "King Roll-in-shower ADA",
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 37
+    },
+    {
+      "category": "WALL COVERINGS",
+      "image": "assets/king/WC-02E.png",
+      "specno": "WC-02E",
+      "name": "Wallcovering @ Guest bath",
+      "price": 6.05,
+      "brand":"Wingate",
+      "unit": "LY",
+      "qty": 30,
+      "roomCategory": [
+        "King Standard ADA",
+        "King Suite Room",
+        "Double Queen Room",
+        "Double Queen Extended",
+        "King Roll-in-shower ADA",
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 38
+    },
+    {
+      "category": "CASE GOODS",
       "image": "assets/king/GR-001.png",
       "specno": "GR-001",
       "name": "Electrical Outlet @ Headboards & Combo Units",
@@ -24,13 +854,18 @@
       "unit": "EA",
       "qty": 2,
       "roomCategory": [
-        "King Standard Room"
+        "King Standard Room",
+        "Double Queen Room",
+        "Double Queen Room",
+        "Double Queen Extended",
+        "Double Queen ADA"
+        
       ],
       "piece": [
         "Full Scope",
         "Guestroom"
       ],
-      "id": 49
+      "id": 39
     },
     {
       "category": "CASE GOODS",
@@ -48,16 +883,16 @@
         "Full Scope",
         "Guestroom"
       ],
-      "id": 51
+      "id": 40
     },
     {
       "category": "CASE GOODS",
-      "image": "assets/king/GR-325.F1-CGF.png",
+      "image": "assets/king/GR-325.F1-CG.png",
       "specno": "GR-325.F1-CGF",
       "name": "Vinyl @ Luggage Bench",
       "price": 11.25,
       "brand":"Wingate",
-      "unit": "yds",
+      "unit": "YDS",
       "qty": 1,
       "roomCategory": [
         "King Standard Room"
@@ -66,7 +901,25 @@
         "Full Scope",
         "Guestroom"
       ],
-      "id": 52
+      "id": 41
+    },
+    {
+      "category": "CASE GOODS",
+      "image": "assets/king/GR-001.png",
+      "specno": "GR-001",
+      "name": "Electrical Outlet @ Headboards & Combo Units",
+      "price": 16.00,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard Room"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 42
     },
     {
       "category": "CASE GOODS",
@@ -78,13 +931,15 @@
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
-        "King Standard Room"
+        "King Standard Room",
+        "Double Queen Room",
+        "Double Queen Extended"
       ],
       "piece": [
         "Full Scope",
         "Guestroom"
       ],
-      "id": 54
+      "id": 43
     },
     {
       "category": "CASE GOODS",
@@ -96,52 +951,40 @@
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
-        "King Standard Room"
+        "King Standard Room",
+        "Double Queen Room",
+        "Double Queen Extended"
       ],
       "piece": [
         "Full Scope",
         "Guestroom"
       ],
-      "id": 55
+      "id": 44
     },
     {
       "category": "SEATING",
-      "images": "assets/king/GR-202.A-SG.png",
+      "image": "assets/king/GR-202.A-SG.png",
       "specno": "GR-202.A-SG",
       "name": "Task Chair",
-      "price": 119,
+      "price": 119.00,
       "brand":"Wingate",
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
-        "King Standard Room"
+        "King Standard Room",
+        "Double Queen Room",
+        "Double Queen Extended",
+        "Double Queen ADA"
       ],
       "piece": [
         "Full Scope",
         "Guestroom"
       ],
-      "id": 63
+      "id": 45
     },
     {
       "category": "SEATING",
-      "images": "assets/king/GR-202.A.F1-SGF.png",
-      "specno": "GR-202.A.F1-SGF",
-      "name": "Upholstery at Task Chair",
-      "price": 11.25,
-      "brand":"Wingate",
-      "unit": "yds",
-      "qty": 2,
-      "roomCategory": [
-        "King Standard Room"
-      ],
-      "piece": [
-        "Full Scope",
-        "Guestroom"
-      ],
-      "id": 64
-    },
-    {
-      "category": "SEATING",
+      "image": "assets/king/GR-201-SG.png",
       "specno": "GR-201-SG",
       "name": "Ottoman at Standard King and Extended QQ",
       "price": 99.81,
@@ -149,33 +992,37 @@
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
-        "King Standard Room"
+        "King Standard Room",
+        "Double Queen Extended"
       ],
       "piece": [
         "Full Scope",
         "Guestroom"
       ],
-      "id": 65
+      "id": 48
     },
     {
       "category": "SEATING",
+      "image": "assets/king/GR-201.F1-SGF.png",
       "specno": "GR-201.F1-SGF",
       "name": "Fabric @ Ottoman",
       "price": 6.88,
       "brand":"Wingate",
-      "unit": "yds",
+      "unit": "YDS",
       "qty": 2.5,
       "roomCategory": [
-        "King Standard Room"
+        "King Standard Room",
+        "Double Queen Extended"
       ],
       "piece": [
         "Full Scope",
         "Guestroom"
       ],
-      "id": 66
+      "id": 47
     },
     {
       "category": "SEATING",
+      "image": "assets/king/GR-204-SG.png",
       "specno": "GR-204-SG",
       "name": "Dining Chair",
       "price": 308.99,
@@ -189,15 +1036,16 @@
         "Full Scope",
         "Guestroom"
       ],
-      "id": 67
+      "id": 48
     },
     {
       "category": "SEATING",
+      "image": "assets/king/GR-204.F1-SGF.png",
       "specno": "GR-204.F1-SGF",
       "name": "Fabric @Dining Chair ",
       "price": 6.88,
       "brand":"Wingate",
-      "unit": "yds",
+      "unit": "YDS",
       "qty": 3,
       "roomCategory": [
         "King Standard Room"
@@ -206,7 +1054,7 @@
         "Full Scope",
         "Guestroom"
       ],
-      "id": 68
+      "id": 49
     },
     {
       "category": "LVT FLOORING",
@@ -218,13 +1066,56 @@
       "unit": "LF",
       "qty": 79,
       "roomCategory": [
-        "King Standard Room"
+        "King Standard Room",
+        "Double Queen Room",
+        "Double Queen Extended",
+        "Double Queen ADA"
       ],
       "piece": [
         "Full Scope",
         "Guestroom"
       ],
-      "id": 70
+      "id": 50
+    },
+    {
+      "category": "ARTWORK",
+      "image": "assets/king/GR-102-ART.png",
+      "specno": "GR-102-ART",
+      "name": "Large Art @Combo Unit - Pairing Option 2",
+      "price": 43.96,
+      "brand":"Wingate",
+      "unit": "LF",
+      "qty": 1,
+      "roomCategory": [
+        "Double Queen Room",
+        "Double Queen Extended",
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 51
+    },
+    {
+      "category": "ARTWORK",
+      "image": "assets/king/GR-103-ART.png",
+      "specno": "GR-103-ART",
+      "name": "Small Art @Combo Unit - Pairing Option 2",
+      "price": 20.91,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "Double Queen Room",
+        "Double Queen Extended",
+        "Double Queen ADA"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 52
     },
     {
       "category": "BEDDING",
@@ -242,7 +1133,7 @@
         "Full Scope",
         "Guestroom"
       ],
-      "id": 77
+      "id": 53
     },
     {
       "category": "BEDDING",
@@ -260,11 +1151,11 @@
         "Full Scope",
         "Guestroom"
       ],
-      "id": 79
+      "id": 54
     },
     {
-      "category": "Mirror",
-      "image": "assets/king/GR-800.A-MR.png",
+      "category": "MIRROR",
+      "image": "assets/king/GR-800.A.png",
       "specno": "GR-800.A-MR",
       "name": "Full Length Mirror",
       "price": 93.15,
@@ -272,16 +1163,20 @@
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
-        "King Standard Room"
+        "King Standard Room",
+        "Double Queen Room",
+        "Double Queen Extended",
+        "Double Queen ADA"
       ],
       "piece": [
         "Full Scope",
         "Guestroom"
       ],
-      "id": 80
+      "id": 55
     },
     {
       "category": "CARPET & RUGS",
+      "image": "assets/king/CP-01E.png",
       "specno": "CP-01E",
       "name": "Carpet @ Guest Room",
       "price": 12.94,
@@ -295,10 +1190,11 @@
         "Full Scope",
         "Guestroom"
       ],
-      "id": 82
+      "id": 56
     },
     {
       "category": "CARPET & RUGS",
+      "image": "assets/king/CPP-01.png",
       "specno": "CPP-01",
       "name": "Guestroom Carpet Pad",
       "price": 1.71,
@@ -312,10 +1208,11 @@
         "Full Scope",
         "Guestroom"
       ],
-      "id": 83
+      "id": 57
     },
     {
       "category": "WALL COVERINGS",
+      "image": "assets/king/WC-01E.png",
       "specno": "WC-01E",
       "name": "Wallcovering @ Guestroom",
       "price": 5.21,
@@ -329,10 +1226,11 @@
         "Full Scope",
         "Guestroom"
       ],
-      "id": 84
+      "id": 58
     },
     {
       "category": "WALL COVERINGS",
+      "image": "assets/king/WC-02E.png",
       "specno": "WC-02E",
       "name": "Guest Bathroom Wallcovering ",
       "price": 6.05,
@@ -346,184 +1244,171 @@
         "Full Scope",
         "Guestroom"
       ],
-      "id": 85
+      "id": 59
     },
     {
-      "category": "GUEST BATH",
-      "name": "Dual Sliding Glass Shower Door System - Per Spec",
-      "price": 425,
+      "category": "CASE GOODS",
+      "image": "assets/king/GR-323-CG.png",
+      "specno": "GR-323-CG",
+      "name": "Queen Queen Headboard with Floating Nightstands",
+      "price": 451.44,
       "brand":"Wingate",
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
-        "King Standard Room"
+        "King Standard Room",
+        "Double Queen Extended",
+        "Double Queen ADA"
       ],
       "piece": [
         "Full Scope",
         "Guestroom"
       ],
-      "id": 86
+      "id": 60
     },
     {
-      "category": "GUEST BATH",
-      "name": "34\" x 60\" Trench Shower Pan  - Per Spec",
-      "price": 350,
-      "brand":"Wingate",
-      "unit": "EA",
-      "qty": 1,
-      "roomCategory": [
-        "King Standard Room"
-      ],
-      "piece": [
-        "Full Scope",
-        "Guestroom"
-      ],
-      "id": 87
-    },
-    {
-      "category": "GUEST BATH",
-      "name": "Shower Surrounds - Back Panel 60\" x 96\" - Per Spec",
-      "price": 180,
-      "brand":"Wingate",
-      "unit": "EA",
-      "qty": 1,
-      "roomCategory": [
-        "King Standard Room"
-      ],
-      "piece": [
-        "Full Scope",
-        "Guestroom"
-      ],
-      "id": 88
-    },
-    {
-      "category": "GUEST BATH",
-      "name": "Shower Surrounds  - Side Panel 34\" x 96\" - Per Spec",
-      "price": 102,
-      "brand":"Wingate",
-      "unit": "EA",
-      "qty": 2,
-      "roomCategory": [
-        "King Standard Room"
-      ],
-      "piece": [
-        "Full Scope",
-        "Guestroom"
-      ],
-      "id": 89
-    },
-    {
-      "category": "GUEST BATH",
-      "name": "Shower Surround Corner Ledge - Per Spec",
-      "price": 28,
-      "brand":"Wingate",
-      "unit": "EA",
-      "qty": 1,
-      "roomCategory": [
-        "King Standard Room"
-      ],
-      "piece": [
-        "Full Scope",
-        "Guestroom"
-      ],
-      "id": 90
-    },
-    {
-      "category": "GUEST BATH",
-      "name": "Trim Piece Matte  - Per Spec",
-      "price": 0,
-      "brand":"Wingate",
-      "unit": "EA",
-      "qty": 1,
-      "roomCategory": [
-        "King Standard Room"
-      ],
-      "piece": [
-        "Full Scope",
-        "Guestroom"
-      ],
-      "id": 91
-    },
-    {
-      "category": "GUEST BATH",
-      "name": "Soap Dish Corner - Per Spec",
-      "price": 0,
-      "brand":"Wingate",
-      "unit": "EA",
-      "qty": 1,
-      "roomCategory": [
-        "King Standard Room"
-      ],
-      "piece": [
-        "Full Scope",
-        "Guestroom"
-      ],
-      "id": 92
-    },
-    {
-      "category": "GUEST BATH",
-      "name": "Rectangular Sink - Ceramic @ Vanity - Per Spec",
-      "price": 25,
-      "brand":"Wingate",
-      "unit": "EA",
-      "qty": 1,
-      "roomCategory": [
-        "King Standard Room"
-      ],
-      "piece": [
-        "Full Scope",
-        "Guestroom"
-      ],
-      "id": 93
-    },
-    {
-      "category": "GUEST BATH",
+      "category": "ACCESSORIES",
+      "image": "assets/king/TB-01.png",
+      "specno": "TB-01",
       "name": "Face towel bar",
-      "price": 28.4,
+      "price": 28.40,
       "brand":"Wingate",
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
-        "King Standard Room"
+        "King Standard ADA"
       ],
       "piece": [
-        "Full Scope",
+        "Corridor",
         "Guestroom"
       ],
-      "id": 94
+      "id": 61
     },
     {
-      "category": "GUEST BATH",
+      "category": "ACCESSORIES",
+      "image": "assets/king/TT-01.png",
+      "specno": "TT-01",
       "name": "Tissue Paper Holder @ Guest Bath",
       "price": 16.28,
       "brand":"Wingate",
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
-        "King Standard Room"
+        "King Standard ADA"
       ],
       "piece": [
-        "Full Scope",
+        "Corridor",
         "Guestroom"
       ],
-      "id": 95
+      "id": 62
     },
     {
-      "category": "GUEST BATH",
-      "image": "assets/king/CP.png",
-      "name": "Robe Hook @ Guest Bath",
+      "category": "ACCESSORIES",
+      "image": "assets/king/G1-12.png",
+      "specno": "G1-12",
+      "name": "12 Grab Bar",
+      "price": 17.75,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA"
+      ],
+      "piece": [
+        "Corridor",
+        "Guestroom"
+      ],
+      "id": 63
+    },
+    {
+      "category": "ACCESSORIES",
+      "image": "assets/king/G1-12.png",
+      "specno": "G1-18",
+      "name": "18 Grab Bar",
+      "price": 22.19,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA"
+      ],
+      "piece": [
+        "Corridor",
+        "Guestroom"
+      ],
+      "id": 64
+    },
+    {
+      "category": "ACCESSORIES",
+      "image": "assets/king/G1-12.png",
+      "specno": "G1-24",
+      "name": "24 Grab Bar",
+      "price": 29.00,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA"
+      ],
+      "piece": [
+        "Corridor",
+        "Guestroom"
+      ],
+      "id": 65
+    },
+    {
+      "category": "ACCESSORIES",
+      "image": "assets/king/G1-12.png",
+      "specno": "G1-36",
+      "name": "36 Grab Bar",
+      "price": 46.16,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA"
+      ],
+      "piece": [
+        "Corridor",
+        "Guestroom"
+      ],
+      "id": 66
+    },
+    {
+      "category": "ACCESSORIES",
+      "image": "assets/king/G1-12.png",
+      "specno": "G1-42",
+      "name": "42 Grab Bar",
+      "price": 54.74,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA"
+      ],
+      "piece": [
+        "Corridor",
+        "Guestroom"
+      ],
+      "id": 67
+    },
+    {
+      "category": "ACCESSORIES",
+      "image": "assets/king/RH-01.png",
+      "specno": "RH-01",
+      "name": "Robe Hook",
       "price": 8.88,
       "brand":"Wingate",
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
-        "King Standard Room"
+        "King Standard ADA"
       ],
       "piece": [
-        "Full Scope",
+        "Corridor",
         "Guestroom"
       ],
-      "id": 96
+      "id": 68
     },
     {
       "category": "LIGHTING",
@@ -535,86 +1420,123 @@
       "unit": "EA",
       "qty": 2,
       "roomCategory": [
-        "King Standard Room"
+        "King Standard ADA"
       ],
       "piece": [
-        "Full Scope",
+        "Corridor",
         "Guestroom"
       ],
-      "id": 98
+      "id": 69
     },
     {
       "category": "FINISHES",
       "image": "assets/king/CT-01E.png",
       "specno": "CT-01E",
-      "name": "Porcelain Tile @ Bathroom",
+      "name": "Porcelain Tile @ Guest Bath",
       "price": 2.49,
       "brand":"Wingate",
-      "unit": "SFT",
-      "qty": 45.9,
+      "unit": "SQFT",
+      "qty": 64,
       "roomCategory": [
-        "King Standard Room"
+        "King Standard ADA"
       ],
       "piece": [
-        "Full Scope",
+        "Corridor",
         "Guestroom"
       ],
-      "id": 100
+      "id": 70
     },
     {
       "category": "FINISHES",
-      "image": "assets/king/T-01.png",
-      "specno": "T-01",
-      "price":"",
+      "image": "assets/king/ST-01.png",
+      "specno": "ST-01",
+      "name": "Shower Surrounds - Back Panel 60 x 96 ",
+      "price": 180.00,
       "brand":"Wingate",
-      "name": "Threshold @ Guestroom Door Entry",
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
-        "King Standard Room"
+        "King Standard ADA"
       ],
       "piece": [
-        "Full Scope",
+        "Corridor",
         "Guestroom"
       ],
-      "id": 101
+      "id": 71
+    },
+    {
+      "category": "FINISHES",
+      "image": "assets/king/ST-01.png",
+      "specno": "ST-01",
+      "name": "Shower Surrounds  - Side Panel 34 x 96",
+      "price": 102.00,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 2,
+      "roomCategory": [
+        "King Standard ADA"
+      ],
+      "piece": [
+        "Corridor",
+        "Guestroom"
+      ],
+      "id": 72
     },
     {
       "category": "FINISHES",
       "image": "assets/king/ST-02.png",
       "specno": "ST-02",
-      "name": "Threshold @ Guestbath Entry",
-      "price":"",
+      "name": "Threshold @ Door Drops",
+      "price": 0,
       "brand":"Wingate",
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
-        "King Standard Room"
+        "King Standard ADA"
       ],
       "piece": [
-        "Full Scope",
+        "Corridor",
         "Guestroom"
       ],
-      "id": 102
+      "id": 73
     },
     {
       "category": "FINISHES",
-      "image": "assets/king/RB-01E.png",
+      "image": "",
+      "specno": "T-01",
+      "name": "Threshold @ Guestroom Door Entry",
+      "price": 0,
+      "brand":"Wingate",
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard ADA"
+      ],
+      "piece": [
+        "Corridor",
+        "Guestroom"
+      ],
+      "id": 74
+    },
+    {
+      "category": "FINISHES",
+      "image": "",
       "specno": "RB-01E",
-      "name": "Resilient Base @ Entire Guest Bath - Per Spec",
+      "name": "Resilient Base @ Entire Guest Bath",
       "price": 0.85,
       "brand":"Wingate",
       "unit": "LF",
-      "qty": 21,
+      "qty": 26,
       "roomCategory": [
-        "King Standard Room"
+        "King Standard ADA"
       ],
       "piece": [
-        "Full Scope",
+        "Corridor",
         "Guestroom"
       ],
-      "id": 103
+      "id": 75
     }
+
   ],
   "userEnquiry": [
     {
