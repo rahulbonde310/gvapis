@@ -20,7 +20,8 @@
       "specno": "GR-322-CG",
       "name": "King Headboard with Floating Nightstands",
       "price": 375.84,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -43,7 +44,8 @@
       "specno": "GR-321-CG",
       "name": "TV Panel",
       "price": 182.52,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": true,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -67,7 +69,8 @@
       "specno": "GR-324-CG",
       "name": "Combo Unit - Left/Right",
       "price": 624.24,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": true,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -90,7 +93,8 @@
       "specno": "GR-332-CG",
       "name": "Bathroom Vanity Base, ADA",
       "price": 304.56,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -107,11 +111,12 @@
     },
     {
       "category": "CASE GOODS",
-      "image": "assets/king/GR-332-ST.png",
+      "image": "",
       "specno": "GR-332-ST",
       "name": "Quartz top @ Bathroom Vanity ADA",
       "price": 163.16,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -132,7 +137,8 @@
       "specno": "GR-500-LT",
       "name": "Sconce at Combo Unit (Desk)",
       "price": 55.54,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -156,7 +162,8 @@
       "specno": "GR-502-LT",
       "name": "Sconce at QQ Headboard",
       "price": 84.42,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -176,7 +183,8 @@
       "specno": "GR-202.A.F1-SGF",
       "name": "Upholstery at Task Chair",
       "price": 11.25,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "YSD",
       "qty": 2,
       "roomCategory": [
@@ -191,12 +199,32 @@
       "id": 8
     },
     {
+      "category": "SEATING",
+      "images": "assets/king/GR-202.B-SG.png",
+      "specno": "GR-202.B-SG",
+      "name": "Task Chair (ALT) ",
+      "price": 122.04,
+      "brand": "Wingate",
+      "addProduct": false,
+      "unit": "EA",
+      "qty": 1,
+      "roomCategory": [
+        "King Standard"
+      ],
+      "piece": [
+        "Full Scope",
+        "Guestroom"
+      ],
+      "id": 8
+    },
+    {
       "category": "LIGHTING",
       "images": "assets/king/GR-501-LT.png",
       "specno": "GR-501-LT",
       "name": "Sconce at King Headboard",
-      "price": 43.40,
-      "brand":"Wingate",
+      "price": 43.4,
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 2,
       "roomCategory": [
@@ -214,10 +242,11 @@
     {
       "category": "LIGHTING",
       "specno": "GR-504-LT",
-      "image":"assets/king/GR-504-LT.png",
+      "image": "assets/king/GR-504-LT.png",
       "name": "Floor Lamp at King + QQ Room",
       "price": 87.49,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -238,10 +267,11 @@
     {
       "category": "SEATING",
       "specno": "GR-200-SG",
-      "image":"assets/king/GR-200-SG.png",
+      "image": "assets/king/GR-200-SG.png",
       "name": "Upholstered Lounge Chair",
       "price": 262.5,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -262,10 +292,11 @@
     {
       "category": "SEATING",
       "specno": "GR-200.F1-SGF",
-      "image":"assets/king/GR-200.F1-SGF.png",
+      "image": "assets/king/GR-200.F1-SGF.png",
       "name": "Fabric @ Lounge Chair Seat",
       "price": 6.68,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "YA",
       "qty": 1,
       "roomCategory": [
@@ -285,11 +316,12 @@
     },
     {
       "category": "SEATING",
-      "image":"assets/king/GR-200.F2-SGF.png",
+      "image": "assets/king/GR-200.F2-SGF.png",
       "specno": "GR-200.F2-SGF",
       "name": "Fabric @ Lounge Chair Inside Back",
       "price": 6.88,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "YA",
       "qty": 2,
       "roomCategory": [
@@ -313,7 +345,8 @@
       "specno": "GR-200.F3-SGF",
       "name": "Fabric @ Lounge Chair Outside Back",
       "price": 6.88,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "YA",
       "qty": 2,
       "roomCategory": [
@@ -336,8 +369,9 @@
       "image": "assets/king/GR-202-SG.png",
       "specno": "GR-202-SG",
       "name": "Task Chair",
-      "price": 119.00,
-      "brand":"Wingate",
+      "price": 119,
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -357,7 +391,8 @@
       "specno": "GR-202.F1-SGF",
       "name": "Upholstery at Task Chair ",
       "price": 11.25,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "YA",
       "qty": 1,
       "roomCategory": [
@@ -377,7 +412,8 @@
       "specno": "LVT-01E",
       "name": "LVT @ Guestroom",
       "price": 1.65,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "SQFT",
       "qty": 191,
       "roomCategory": [
@@ -397,11 +433,12 @@
     },
     {
       "category": "LVT FLOORING",
-      "image":"assets/king/RB-01E.png",
+      "image": "assets/king/RB-01E.png",
       "specno": "RB-01E",
       "name": "Resilient Base @ Entire Guest Room",
       "price": 0.85,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "LF",
       "qty": 84,
       "roomCategory": [
@@ -418,10 +455,11 @@
     {
       "category": "ARTWORK",
       "specno": "GR-100-ART",
-      "image":"assets/king/GR-100-ART.png",
+      "image": "assets/king/GR-100-ART.png",
       "name": "Large Art @Combo Unit - Pairing Option 1",
       "price": 43.96,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -439,10 +477,11 @@
     {
       "category": "ARTWORK",
       "specno": "GR-101-ART",
-      "image":"assets/king/GR-101-ART.png",
+      "image": "assets/king/GR-101-ART.png",
       "name": "Small Art @Combo Unit - Pairing Option 1",
       "price": 20.91,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -460,10 +499,11 @@
     {
       "category": "ARTWORK",
       "specno": "GR-104-ART",
-      "image":"assets/king/GR-104-ART.png",
+      "image": "assets/king/GR-104-ART.png",
       "name": "Art at Window Wall",
       "price": 27.05,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -483,11 +523,12 @@
     },
     {
       "category": "ARTWORK",
-      "image":"assets/king/GR-105-ART.png",
-      "sepcno":"GR-105-ART",
+      "image": "assets/king/GR-105-ART.png",
+      "sepcno": "GR-105-ART",
       "name": "Art at Bathroom",
       "price": 16.19,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -507,11 +548,12 @@
     },
     {
       "category": "WINDOW TREATMENTS_ 54 W X 60 H",
-      "specno":"GR-401-WT",
-      "image":"assets/king/GR-401-WT.png",
+      "specno": "GR-401-WT",
+      "image": "assets/king/GR-401-WT.png",
       "name": "Window Treatment Dual Manual Roller Shade",
       "price": 317.25,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -531,11 +573,12 @@
     },
     {
       "category": "WINDOW TREATMENTS_ 54 W X 60 H",
-      "image":"assets/king/GR-400-WT.png",
-      "specno":"GR-400-WT",
+      "image": "assets/king/GR-400-WT.png",
+      "specno": "GR-400-WT",
       "name": "Window Treatment Panel Fabrication",
       "price": 195.75,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -551,15 +594,16 @@
         "Full Scope",
         "Guestroom"
       ],
-      "id":24
+      "id": 24
     },
     {
       "category": "BEDDING",
-      "image":"assets/king/GR-605-BD.png",
-      "specno":"GR-605-BD",
+      "image": "assets/king/GR-605-BD.png",
+      "specno": "GR-605-BD",
       "name": "ADA Queen Bed Skirt",
       "price": 45.26,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 2,
       "roomCategory": [
@@ -573,11 +617,12 @@
     },
     {
       "category": "BEDDING",
-      "image":"assets/king/GR-603-BD.png",
-      "specno":"GR-603-BD",
+      "image": "assets/king/GR-603-BD.png",
+      "specno": "GR-603-BD",
       "name": "Queen Box Spring Cover",
       "price": 45.26,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 2,
       "roomCategory": [
@@ -592,11 +637,12 @@
     },
     {
       "category": "BEDDING",
-      "image":"assets/king/GR-601-BD.png",
-      "specno":"GR-601-BD",
+      "image": "assets/king/GR-601-BD.png",
+      "specno": "GR-601-BD",
       "name": "Queen Top of Bed",
       "price": 30.53,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 2,
       "roomCategory": [
@@ -612,11 +658,12 @@
     },
     {
       "category": "BEDDING",
-      "image":"assets/king/OSE-607-BD.png",
-      "specno":"OSE-609-BD",
+      "image": "assets/king/OSE-607-BD.png",
+      "specno": "OSE-609-BD",
       "name": "ADA Queen Bed Skirt",
       "price": 84.74,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 2,
       "roomCategory": [
@@ -630,11 +677,12 @@
     },
     {
       "category": "BEDDING",
-      "image":"assets/king/OSE-607-BD.png",
-      "specno":"OSE-607-BD",
+      "image": "assets/king/OSE-607-BD.png",
+      "specno": "OSE-607-BD",
       "name": "Queen Bed Base",
       "price": 84.74,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 2,
       "roomCategory": [
@@ -649,11 +697,12 @@
     },
     {
       "category": "BEDDING",
-      "image":"assets/king/GR-604-BD.png",
-      "specno":"GR-604-BD",
+      "image": "assets/king/GR-604-BD.png",
+      "specno": "GR-604-BD",
       "name": "ADA King Bedskirt",
       "price": 47.37,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -669,11 +718,12 @@
     },
     {
       "category": "BEDDING",
-      "image":"assets/king/GR-600-BD.png",
-      "specno":"GR-600-BD",
+      "image": "assets/king/GR-600-BD.png",
+      "specno": "GR-600-BD",
       "name": "King Top of Bed",
       "price": 0,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -690,11 +740,12 @@
     },
     {
       "category": "BEDDING",
-      "image":"assets/king/OSE-608-BD.png",
-      "specno":"OSE-608-BD",
+      "image": "assets/king/OSE-608-BD.png",
+      "specno": "OSE-608-BD",
       "name": "ADA King Bed Frame",
       "price": 98.37,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -710,11 +761,12 @@
     },
     {
       "category": "MIRROR",
-      "image":"assets/king/GR-800-MR.png",
-      "specno":"GR-800-MR",
+      "image": "assets/king/GR-800-MR.png",
+      "specno": "GR-800-MR",
       "name": "Full Length Mirror",
       "price": 93.15,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -730,11 +782,12 @@
     },
     {
       "category": "MIRROR",
-      "image":"assets/king/GR-506-LT.png",
-      "specno":"GR-506-LT",
+      "image": "assets/king/GR-506-LT.png",
+      "specno": "GR-506-LT",
       "name": "Back Lit Mirror @ Vanity",
       "price": 144.36,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -754,11 +807,12 @@
     },
     {
       "category": "CARPET & RUGS",
-      "image":"assets/king/CCP-01E.png",
-      "specno":"CP-01E",
+      "image": "assets/king/CCP-01E.png",
+      "specno": "CP-01E",
       "name": "Inset Carpet @ Guest Room",
-      "price":12.94,
-      "brand":"Wingate",
+      "price": 12.94,
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "SY",
       "qty": 13,
       "roomCategory": [
@@ -777,11 +831,12 @@
     },
     {
       "category": "CARPET & RUGS",
-      "image":"assets/king/CPP-01.png",
-      "specno":"CPP-01",
+      "image": "assets/king/CPP-01.png",
+      "specno": "CPP-01",
       "name": "Carpet Pad @ Guestroom ",
       "price": 1.71,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "SY",
       "qty": 9,
       "roomCategory": [
@@ -800,11 +855,12 @@
     },
     {
       "category": "WALL COVERINGS",
-      "specno":"WC-01E",
+      "specno": "WC-01E",
       "image": "assets/king/WC-01E.png",
       "name": "Wallcovering @ Guestroom",
       "price": 5.21,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "LY",
       "qty": 21,
       "roomCategory": [
@@ -827,7 +883,8 @@
       "specno": "WC-02E",
       "name": "Wallcovering @ Guest bath",
       "price": 6.05,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "LY",
       "qty": 30,
       "roomCategory": [
@@ -850,7 +907,8 @@
       "specno": "GR-001",
       "name": "Electrical Outlet @ Headboards & Combo Units",
       "price": 16,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 2,
       "roomCategory": [
@@ -859,7 +917,6 @@
         "Double Queen Room",
         "Double Queen Extended",
         "Double Queen ADA"
-        
       ],
       "piece": [
         "Full Scope",
@@ -873,7 +930,8 @@
       "specno": "GR-325-CG",
       "name": "Combo Unit at Suites",
       "price": 624.24,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -891,7 +949,8 @@
       "specno": "GR-325.F1-CGF",
       "name": "Vinyl @ Luggage Bench",
       "price": 11.25,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "YDS",
       "qty": 1,
       "roomCategory": [
@@ -908,8 +967,9 @@
       "image": "assets/king/GR-001.png",
       "specno": "GR-001",
       "name": "Electrical Outlet @ Headboards & Combo Units",
-      "price": 16.00,
-      "brand":"Wingate",
+      "price": 16,
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -927,7 +987,8 @@
       "specno": "GR-331-CG",
       "name": "Bathroom Vanity Base",
       "price": 321.84,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -947,7 +1008,8 @@
       "specno": "GR-331-ST",
       "name": "Quartz top @ Bathroom Vanity",
       "price": 163.16,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -966,8 +1028,9 @@
       "image": "assets/king/GR-202.A-SG.png",
       "specno": "GR-202.A-SG",
       "name": "Task Chair",
-      "price": 119.00,
-      "brand":"Wingate",
+      "price": 119,
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -988,7 +1051,8 @@
       "specno": "GR-201-SG",
       "name": "Ottoman at Standard King and Extended QQ",
       "price": 99.81,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -1007,7 +1071,8 @@
       "specno": "GR-201.F1-SGF",
       "name": "Fabric @ Ottoman",
       "price": 6.88,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "YDS",
       "qty": 2.5,
       "roomCategory": [
@@ -1026,7 +1091,8 @@
       "specno": "GR-204-SG",
       "name": "Dining Chair",
       "price": 308.99,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -1044,7 +1110,8 @@
       "specno": "GR-204.F1-SGF",
       "name": "Fabric @Dining Chair ",
       "price": 6.88,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "YDS",
       "qty": 3,
       "roomCategory": [
@@ -1062,7 +1129,8 @@
       "specno": "RB-O1E",
       "name": "Wall Base @ Guestrooms",
       "price": 0.85,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "LF",
       "qty": 79,
       "roomCategory": [
@@ -1083,7 +1151,8 @@
       "specno": "GR-102-ART",
       "name": "Large Art @Combo Unit - Pairing Option 2",
       "price": 43.96,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "LF",
       "qty": 1,
       "roomCategory": [
@@ -1103,7 +1172,8 @@
       "specno": "GR-103-ART",
       "name": "Small Art @Combo Unit - Pairing Option 2",
       "price": 20.91,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -1123,7 +1193,8 @@
       "specno": "GR-602-BD",
       "name": "King Box Spring Cover",
       "price": 47.35,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -1141,7 +1212,8 @@
       "specno": "OSE-606-BD",
       "name": "King Bed Base",
       "price": 91.84,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -1159,7 +1231,8 @@
       "specno": "GR-800.A-MR",
       "name": "Full Length Mirror",
       "price": 93.15,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -1180,7 +1253,8 @@
       "specno": "CP-01E",
       "name": "Carpet @ Guest Room",
       "price": 12.94,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "SY",
       "qty": 13,
       "roomCategory": [
@@ -1198,7 +1272,8 @@
       "specno": "CPP-01",
       "name": "Guestroom Carpet Pad",
       "price": 1.71,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "SY",
       "qty": 9,
       "roomCategory": [
@@ -1216,7 +1291,8 @@
       "specno": "WC-01E",
       "name": "Wallcovering @ Guestroom",
       "price": 5.21,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "LY",
       "qty": 23,
       "roomCategory": [
@@ -1234,7 +1310,8 @@
       "specno": "WC-02E",
       "name": "Guest Bathroom Wallcovering ",
       "price": 6.05,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "LY",
       "qty": 26,
       "roomCategory": [
@@ -1252,7 +1329,8 @@
       "specno": "GR-323-CG",
       "name": "Queen Queen Headboard with Floating Nightstands",
       "price": 451.44,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -1271,15 +1349,15 @@
       "image": "assets/king/TB-01.png",
       "specno": "TB-01",
       "name": "Face towel bar",
-      "price": 28.40,
-      "brand":"Wingate",
+      "price": 28.4,
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
         "King Standard ADA"
       ],
       "piece": [
-        "Corridor",
         "Guestroom"
       ],
       "id": 61
@@ -1290,14 +1368,14 @@
       "specno": "TT-01",
       "name": "Tissue Paper Holder @ Guest Bath",
       "price": 16.28,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
         "King Standard ADA"
       ],
       "piece": [
-        "Corridor",
         "Guestroom"
       ],
       "id": 62
@@ -1308,14 +1386,14 @@
       "specno": "G1-12",
       "name": "12 Grab Bar",
       "price": 17.75,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
         "King Standard ADA"
       ],
       "piece": [
-        "Corridor",
         "Guestroom"
       ],
       "id": 63
@@ -1326,14 +1404,14 @@
       "specno": "G1-18",
       "name": "18 Grab Bar",
       "price": 22.19,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
         "King Standard ADA"
       ],
       "piece": [
-        "Corridor",
         "Guestroom"
       ],
       "id": 64
@@ -1343,15 +1421,15 @@
       "image": "assets/king/G1-12.png",
       "specno": "G1-24",
       "name": "24 Grab Bar",
-      "price": 29.00,
-      "brand":"Wingate",
+      "price": 29,
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
         "King Standard ADA"
       ],
       "piece": [
-        "Corridor",
         "Guestroom"
       ],
       "id": 65
@@ -1362,14 +1440,14 @@
       "specno": "G1-36",
       "name": "36 Grab Bar",
       "price": 46.16,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
         "King Standard ADA"
       ],
       "piece": [
-        "Corridor",
         "Guestroom"
       ],
       "id": 66
@@ -1380,14 +1458,14 @@
       "specno": "G1-42",
       "name": "42 Grab Bar",
       "price": 54.74,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
         "King Standard ADA"
       ],
       "piece": [
-        "Corridor",
         "Guestroom"
       ],
       "id": 67
@@ -1398,14 +1476,14 @@
       "specno": "RH-01",
       "name": "Robe Hook",
       "price": 8.88,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
         "King Standard ADA"
       ],
       "piece": [
-        "Corridor",
         "Guestroom"
       ],
       "id": 68
@@ -1416,14 +1494,14 @@
       "specno": "GR-503-LT",
       "name": "Reading Lamp at Headboard upgrade Option",
       "price": 31.78,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 2,
       "roomCategory": [
         "King Standard ADA"
       ],
       "piece": [
-        "Corridor",
         "Guestroom"
       ],
       "id": 69
@@ -1434,14 +1512,14 @@
       "specno": "CT-01E",
       "name": "Porcelain Tile @ Guest Bath",
       "price": 2.49,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "SQFT",
       "qty": 64,
       "roomCategory": [
         "King Standard ADA"
       ],
       "piece": [
-        "Corridor",
         "Guestroom"
       ],
       "id": 70
@@ -1451,15 +1529,15 @@
       "image": "assets/king/ST-01.png",
       "specno": "ST-01",
       "name": "Shower Surrounds - Back Panel 60 x 96 ",
-      "price": 180.00,
-      "brand":"Wingate",
+      "price": 180,
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
         "King Standard ADA"
       ],
       "piece": [
-        "Corridor",
         "Guestroom"
       ],
       "id": 71
@@ -1469,15 +1547,15 @@
       "image": "assets/king/ST-01.png",
       "specno": "ST-01",
       "name": "Shower Surrounds  - Side Panel 34 x 96",
-      "price": 102.00,
-      "brand":"Wingate",
+      "price": 102,
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 2,
       "roomCategory": [
         "King Standard ADA"
       ],
       "piece": [
-        "Corridor",
         "Guestroom"
       ],
       "id": 72
@@ -1488,14 +1566,14 @@
       "specno": "ST-02",
       "name": "Threshold @ Door Drops",
       "price": 0,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
         "King Standard ADA"
       ],
       "piece": [
-        "Corridor",
         "Guestroom"
       ],
       "id": 73
@@ -1506,14 +1584,14 @@
       "specno": "T-01",
       "name": "Threshold @ Guestroom Door Entry",
       "price": 0,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
         "King Standard ADA"
       ],
       "piece": [
-        "Corridor",
         "Guestroom"
       ],
       "id": 74
@@ -1524,19 +1602,218 @@
       "specno": "RB-01E",
       "name": "Resilient Base @ Entire Guest Bath",
       "price": 0.85,
-      "brand":"Wingate",
+      "brand": "Wingate",
+      "addProduct": false,
       "unit": "LF",
       "qty": 26,
       "roomCategory": [
         "King Standard ADA"
       ],
       "piece": [
-        "Corridor",
         "Guestroom"
       ],
       "id": 75
+    },
+    {
+      "category": "FLOORING",
+      "image": "assets/king/CP-02E.png",
+      "specno": "CP-02E",
+      "name": "1st Floor Corridor",
+      "color": "368",
+      "Width or Rug Size": "15",
+      "price": 14.32,
+      "brand": "Wingate",
+      "addProduct": false,
+      "unit": "SY",
+      "qty": 473,
+      "roomCategory": [
+        "King Standard ADA"
+      ],
+      "piece": [
+        "Corridor"
+      ],
+      "id": 76
+    },
+    {
+      "category": "FLOORING",
+      "image": "assets/king/CP-01.png",
+      "specno": "CP-01",
+      "name": "Typical Floors @ Elev Lobby",
+      "color": "3120/3197; 3719; 3129; 3141",
+      "Width or Rug Size": "15",
+      "price": 15.88,
+      "brand": "Wingate",
+      "addProduct": false,
+      "unit": "SY",
+      "qty": 195.27,
+      "roomCategory": [
+        "King Standard ADA"
+      ],
+      "piece": [
+        "Corridor"
+      ],
+      "id": 77
+    },
+    {
+      "category": "WALL BASE",
+      "image": "assets/king/RB-02E.png",
+      "specno": "RB-02E",
+      "name": "Typical Floor Corridors",
+      "color": "341 Sea Breeze",
+      "Width or Rug Size": "4.25",
+      "price": 0.85,
+      "brand": "Wingate",
+      "addProduct": false,
+      "unit": "LF",
+      "qty": 1292,
+      "roomCategory": [
+        "King Standard ADA"
+      ],
+      "piece": [
+        "Corridor"
+      ],
+      "id": 78
+    },
+    {
+      "category": "WALL BASE",
+      "image": "assets/king/RB-02.png",
+      "specno": "RB-02",
+      "name": "Elev Lobby TB1 Peppercorn",
+      "color": "",
+      "Width or Rug Size": "",
+      "price": 1.76,
+      "brand": "Wingate",
+      "addProduct": false,
+      "unit": "LF",
+      "qty": 193.2,
+      "roomCategory": [
+        "King Standard ADA"
+      ],
+      "piece": [
+        "Corridor"
+      ],
+      "id": 79
+    },
+    {
+      "category": "WALL COVERING",
+      "image": "assets/king/WC-05E.png",
+      "specno": "WC-05E",
+      "name": "1st Floor Corridors",
+      "color": "Baroness",
+      "Width or Rug Size": "52 - 54 in",
+      "price": 6.05,
+      "brand": "Wingate",
+      "addProduct": false,
+      "unit": "LY",
+      "qty": 739.33,
+      "roomCategory": [
+        "King Standard ADA"
+      ],
+      "piece": [
+        "Corridor"
+      ],
+      "id": 80
+    },
+    {
+      "category": "WALL COVERING",
+      "image": "assets/king/WC-04E.png",
+      "specno": "WC-04E",
+      "name": "1st Floor Door Drops",
+      "color": "Trousseaux",
+      "Width or Rug Size": "52 - 54 in",
+      "price": 6.39,
+      "brand": "Wingate",
+      "addProduct": false,
+      "unit": "LY",
+      "qty": 332.67,
+      "roomCategory": [
+        "King Standard ADA"
+      ],
+      "piece": [
+        "Corridor"
+      ],
+      "id": 81
+    },
+    {
+      "category": "WALL COVERING",
+      "image": "assets/king/WC-05E.png",
+      "specno": "WC-05E",
+      "name": "Typical Floor Corridors",
+      "color": "Baroness",
+      "Width or Rug Size": "52 - 54 in",
+      "price": 6.05,
+      "brand": "Wingate",
+      "addProduct": false,
+      "unit": "LY",
+      "qty": 739.33,
+      "roomCategory": [
+        "King Standard ADA"
+      ],
+      "piece": [
+        "Corridor"
+      ],
+      "id": 82
+    },
+    {
+      "category": "WALL COVERING",
+      "image": "assets/king/WC-04E.png",
+      "specno": "WC-04E",
+      "name": "Typical Floor Door Drops",
+      "color": "Trousseaux",
+      "Width or Rug Size": "52 - 54 in",
+      "price": 6.39,
+      "brand": "Wingate",
+      "addProduct": false,
+      "unit": "LY",
+      "qty": 332.67,
+      "roomCategory": [
+        "King Standard ADA"
+      ],
+      "piece": [
+        "Corridor"
+      ],
+      "id": 83
+    },
+    {
+      "category": "WALL COVERING",
+      "image": "assets/king/WC-04.png",
+      "specno": "WC-04",
+      "name": "Typical Floor Elev Lobby",
+      "color": "",
+      "Width or Rug Size": "52 - 54 in",
+      "price": 10.25,
+      "brand": "Wingate",
+      "addProduct": false,
+      "unit": "LY",
+      "qty": 135.7,
+      "roomCategory": [
+        "King Standard ADA"
+      ],
+      "piece": [
+        "Corridor"
+      ],
+      "id": 84
+    },
+    {
+      "category": "WALL COVERING",
+      "image": "assets/king/WC-04a.png",
+      "specno": "WC-04",
+      "name": "1st Floor Elev Lobby",
+      "color": "",
+      "Width or Rug Size": "52 - 54 in",
+      "price": 10.25,
+      "brand": "Wingate",
+      "addProduct": false,
+      "unit": "LY",
+      "qty": 135.7,
+      "roomCategory": [
+        "King Standard ADA"
+      ],
+      "piece": [
+        "Corridor"
+      ],
+      "id": 85
     }
-
   ],
   "userEnquiry": [
     {
@@ -1548,62 +1825,20 @@
       "roomCategory": "2 King ",
       "pieceCategory": "Full Scope",
       "id": 1
-    },
-    {
-      "name": "Amol",
-      "email": "amol@gmail.com",
-      "mobile": "987654321",
-      "reno": "Renovation of my Property",
-      "proper": "Wingate",
-      "roomCategory": "2 King ",
-      "pieceCategory": "Full Scope",
-      "id": 2
-    },
-    {
-      "name": "Pankaj",
-      "email": "pankaj@gmail.com",
-      "mobile": "987654321",
-      "reno": "Renovation of my Property",
-      "proper": "Wingate",
-      "roomCategory": "2 King ",
-      "pieceCategory": "Full Scope",
-      "id": 3
-    },
-    {
-      "name": "Tushar",
-      "email": "tushar@gmail.com",
-      "mobile": "987654321",
-      "reno": "Renovation of my Property",
-      "proper": "Wingate",
-      "roomCategory": "2 King ",
-      "pieceCategory": "Full Scope",
-      "id": 4
-    },
-    {
-      "name": "sunil",
-      "email": "sunil@gmail.com",
-      "mobile": "987654321",
-      "reno": "Renovation of my Property",
-      "proper": "Wingate",
-      "roomCategory": "2 King ",
-      "pieceCategory": "Full Scope",
-      "id": 5
-    },
-    {
-      "name": "abhishek",
-      "email": "abhishek@gmail.com",
-      "mobile": "987654321",
-      "reno": "Renovation of my Property",
-      "proper": "Wingate",
-      "roomCategory": "2 King ",
-      "pieceCategory": "Full Scope",
-      "id": 6
     }
   ],
   "admin": [
     {
       "username": "sunil",
       "password": "123"
+    }
+  ],
+  "productCat": [
+    {
+      "name": "CASE GOODS"
+    },
+    {
+      "name": "LIGHTING"
     }
   ],
   "tokens": [
