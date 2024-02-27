@@ -26,7 +26,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -50,7 +50,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -74,12 +74,12 @@
       "category": "ARTWORK",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-       "Double Queen Extended (13 Bay)",
+        "Double Queen Standard (13\")",
+       "Double Queen Extended (13\" Bay)",
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -103,12 +103,12 @@
       "category": "ARTWORK",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)",
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)",
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -132,12 +132,12 @@
       "category": "SEATING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)",
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)",
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -161,12 +161,12 @@
       "category": "SEATING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-       "Double Queen Extended (13 Bay)",
+        "Double Queen Standard (13\")",
+       "Double Queen Extended (13\" Bay)",
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -191,13 +191,13 @@
       "category": "SEATING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
+        "Double Queen Standard (13\")",
         "King Accessible Roll in Shower",
-        "Double Queen Extended (13 Bay)",
+        "Double Queen Extended (13\" Bay)",
         
         "King Accessible Tub",
         "Double Queen Accessible Tub",
@@ -221,12 +221,12 @@
       "category": "SEATING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)",
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)",
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -251,7 +251,7 @@
       "category": "SEATING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "Double Queen",
         "Double Queen Standard (13)"
       ],
@@ -273,7 +273,7 @@
       "category": "SEATING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "Double Queen",
         "Double Queen Standard (13)"
       ],
@@ -295,12 +295,12 @@
       "category": "SEATING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)",
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)",
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -324,12 +324,12 @@
       "category": "SEATING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)",
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)",
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -354,12 +354,12 @@
       "category": "SEATING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)",
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)",
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -384,12 +384,12 @@
       "category": "SEATING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)",
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)",
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -414,12 +414,12 @@
       "category": "CASE GOODS",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)",
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)",
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -444,7 +444,7 @@
       "category": "CASE GOODS",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -468,7 +468,7 @@
       "category": "CASE GOODS",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -492,11 +492,11 @@
       "category": "CASE GOODS",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)"
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)"
       ],
       "piece": [
         "GuestRoom",
@@ -516,12 +516,12 @@
       "category": "CASE GOODS",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
+        "Double Queen Standard (13\")",
         "King Suite",
-        "Double Queen Extended (13 Bay)"
+        "Double Queen Extended (13\" Bay)"
       ],
       "piece": [
         "GuestRoom",
@@ -541,12 +541,12 @@
       "category": "CASE GOODS",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)"
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)"
       ],
       "piece": [
         "GuestRoom",
@@ -593,12 +593,12 @@
       "category": "WINDOW TREATMENTS",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
        
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)"
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)"
       ],
       "piece": [
         "GuestRoom",
@@ -618,12 +618,12 @@
       "category": "LIGHTING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)",
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)",
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -648,7 +648,7 @@
       "category": "LIGHTING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -672,12 +672,12 @@
       "category": "LIGHTING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)",
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)",
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -702,12 +702,12 @@
       "category": "LIGHTING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)",
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)",
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -732,11 +732,11 @@
       "category": "LIGHTING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)"
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)"
       ],
       "piece": [
         "GuestRoom",
@@ -756,7 +756,7 @@
       "category": "BEDDING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -780,7 +780,7 @@
       "category": "BEDDING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite"
       ],
       "piece": [
@@ -801,7 +801,7 @@
       "category": "BEDDING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite"
       ],
       "piece": [
@@ -822,12 +822,12 @@
       "category": "MIRROR",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-       "Double Queen Extended (13 Bay)",
+        "Double Queen Standard (13\")",
+       "Double Queen Extended (13\" Bay)",
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -852,12 +852,12 @@
       "category": "LVT FLOORING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)",
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)",
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -882,7 +882,7 @@
       "category": "CARPET",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
        
    
@@ -928,11 +928,11 @@
       "category": "CARPET PAD",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
        
    "King Suite Accessible Tub",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
  
         "King Accessible Roll in Shower",
         "King Accessible Tub"
@@ -956,12 +956,12 @@
       "category": "CARPET PAD",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)",
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)",
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -985,7 +985,7 @@
       "category": "",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
        
 
         "King Standard (13 Bay)"
@@ -1012,7 +1012,7 @@
       "category": "RESILIENT FLOORING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
        
 
        
@@ -1096,12 +1096,12 @@
       "category": "WALL COVERINGS",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)"
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)"
         
        
        
@@ -1172,12 +1172,12 @@
       "category": "COVERING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)"
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)"
       ],
       "piece": [
         "GuestRoom",
@@ -1197,12 +1197,12 @@
       "category": "COVERING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)"
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)"
       ],
       "piece": [
         "GuestRoom",
@@ -1222,12 +1222,12 @@
       "category": "COVERING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)",
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)",
         "King Accessible Roll in Shower"
       ],
       "piece": [
@@ -1248,12 +1248,12 @@
       "category": "COVERING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)"
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)"
       ],
       "piece": [
         "GuestRoom",
@@ -1273,12 +1273,12 @@
       "category": "COVERING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)"
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)"
       ],
       "piece": [
         "GuestRoom",
@@ -1298,12 +1298,12 @@
       "category": "COVERING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-       "Double Queen Extended (13 Bay)",
+        "Double Queen Standard (13\")",
+       "Double Queen Extended (13\" Bay)",
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -1327,12 +1327,12 @@
       "category": "COVERING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-       "Double Queen Extended (13 Bay)",
+        "Double Queen Standard (13\")",
+       "Double Queen Extended (13\" Bay)",
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -1356,12 +1356,12 @@
       "category": "COVERING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)"
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)"
       ],
       "piece": [
         "GuestRoom",
@@ -1381,12 +1381,12 @@
       "category": "COVERING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-       "Double Queen Extended (13 Bay)",
+        "Double Queen Standard (13\")",
+       "Double Queen Extended (13\" Bay)",
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -1410,12 +1410,12 @@
       "category": "COVERING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)",
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)",
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -1439,12 +1439,12 @@
       "category": "COVERING",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)",
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)",
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -1727,8 +1727,8 @@
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)"
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)"
       ],
       "piece": [
         "GuestRoom",
@@ -1749,10 +1749,10 @@
       "roomCategory": [
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
+        "Double Queen Standard (13\")",
         "Double Queen Accessible Tub",
         "QQ Extended (13' Bay)",
-        "Double Queen Extended (13 Bay)"
+        "Double Queen Extended (13\" Bay)"
       ],
       "piece": [
         "GuestRoom",
@@ -1773,9 +1773,9 @@
       "roomCategory": [
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
+        "Double Queen Standard (13\")",
         "Double Queen Accessible Tub",
-        "Double Queen Extended (13 Bay)"
+        "Double Queen Extended (13\" Bay)"
        
       ],
       "piece": [
@@ -1797,9 +1797,9 @@
       "roomCategory": [
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
+        "Double Queen Standard (13\")",
        "Double Queen Accessible Tub",
-       "Double Queen Extended (13 Bay)"
+       "Double Queen Extended (13\" Bay)"
       ],
       "piece": [
         "GuestRoom",
@@ -1820,9 +1820,9 @@
       "roomCategory": [
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
+        "Double Queen Standard (13\")",
        "Double Queen Accessible Tub",
-       "Double Queen Extended (13 Bay)"
+       "Double Queen Extended (13\" Bay)"
       ],
       "piece": [
         "GuestRoom",
@@ -1843,9 +1843,9 @@
       "roomCategory": [
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
+        "Double Queen Standard (13\")",
        "Double Queen Accessible Tub",
-       "Double Queen Extended (13 Bay)"
+       "Double Queen Extended (13\" Bay)"
       ],
       "piece": [
         "GuestRoom",
@@ -1866,9 +1866,9 @@
       "roomCategory": [
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
+        "Double Queen Standard (13\")",
         "Double Queen Accessible Tub",
-        "Double Queen Extended (13 Bay)"
+        "Double Queen Extended (13\" Bay)"
       ],
       "piece": [
         "GuestRoom",
@@ -1889,8 +1889,8 @@
       "roomCategory": [
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)"
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)"
       ],
       "piece": [
         "GuestRoom",
@@ -1911,8 +1911,8 @@
       "roomCategory": [
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)"
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)"
       ],
       "piece": [
         "GuestRoom",
@@ -2384,11 +2384,11 @@
       "qty": 195.27,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
+        "Double Queen Standard (13\")",
         
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
@@ -2415,7 +2415,7 @@
       "qty": 1292,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen Extended",
         
@@ -2443,11 +2443,11 @@
       "qty": 193.2,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
+        "Double Queen Standard (13\")",
         
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
@@ -2474,11 +2474,11 @@
       "qty": 739.33,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
+        "Double Queen Standard (13\")",
        
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
@@ -2504,11 +2504,11 @@
       "qty": 332.67,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
+        "Double Queen Standard (13\")",
         
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
@@ -2534,11 +2534,11 @@
       "qty": 739.33,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
+        "Double Queen Standard (13\")",
        
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
@@ -2565,11 +2565,11 @@
       "qty": 332.67,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
+        "Double Queen Standard (13\")",
        
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
@@ -2596,11 +2596,11 @@
       "qty": 135.7,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
+        "Double Queen Standard (13\")",
        
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
@@ -2627,11 +2627,11 @@
       "qty": 135.7,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
+        "Double Queen Standard (13\")",
         
         "Double Queen Accessible Tub",
         "King Accessible Roll in Shower",
@@ -2655,11 +2655,11 @@
       "category": "CARPET",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
+        "Double Queen Standard (13\")",
        
        
         "King Accessible Roll in Shower",
@@ -2683,11 +2683,11 @@
       "category": "WINDOW TREATMENTS",
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)"
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)"
       ],
       "piece": [
         "GuestRoom",
@@ -2708,7 +2708,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -2731,7 +2731,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -2754,7 +2754,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -2777,7 +2777,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -2800,7 +2800,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -2823,7 +2823,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -2846,7 +2846,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -2869,7 +2869,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -2892,7 +2892,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -2915,7 +2915,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -2938,7 +2938,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -2961,7 +2961,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -2984,7 +2984,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3007,7 +3007,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3030,7 +3030,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3053,7 +3053,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3076,7 +3076,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3099,7 +3099,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3122,7 +3122,7 @@
       "qty": 2,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3145,7 +3145,7 @@
       "qty": 4,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3168,7 +3168,7 @@
       "qty": 4,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3191,7 +3191,7 @@
       "qty": 4,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3214,7 +3214,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3237,7 +3237,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3255,12 +3255,12 @@
       "name": "Square Dining Table Top (REFRESH ONLY)",
       "price": 0,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3278,12 +3278,12 @@
       "name": "Dining Table Base (REFRESH ONLY) ",
       "price": 0,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3306,7 +3306,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3329,7 +3329,7 @@
       "qty": 4,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3352,7 +3352,7 @@
       "qty": 195,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3375,7 +3375,7 @@
       "qty": 58,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3398,7 +3398,7 @@
       "qty": 70,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3421,7 +3421,7 @@
       "qty": 178,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3444,7 +3444,7 @@
       "qty": 53,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3467,7 +3467,7 @@
       "qty": 274,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3490,7 +3490,7 @@
       "qty": 4,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3513,7 +3513,7 @@
       "qty": 3,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3536,7 +3536,7 @@
       "qty": 2,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3559,7 +3559,7 @@
       "qty": 2,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3582,7 +3582,7 @@
       "qty": 3,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3605,7 +3605,7 @@
       "qty": 6,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3628,7 +3628,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3651,7 +3651,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3674,7 +3674,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3697,7 +3697,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3720,7 +3720,7 @@
       "qty": 3,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3743,7 +3743,7 @@
       "qty": 2,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3761,12 +3761,12 @@
       "name": "Back Lit Mirror @ Vanity 54' x 36' - OPT B",
       "price": 0,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3789,7 +3789,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3812,7 +3812,7 @@
       "qty": 2,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3835,7 +3835,7 @@
       "qty": 4,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3858,7 +3858,7 @@
       "qty": 4,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3881,7 +3881,7 @@
       "qty": 10,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3904,7 +3904,7 @@
       "qty": 6,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3927,7 +3927,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3950,7 +3950,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3973,7 +3973,7 @@
       "qty": 4,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -3996,7 +3996,7 @@
       "qty": 10,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4019,7 +4019,7 @@
       "qty": 8,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4042,7 +4042,7 @@
       "qty": 24,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4065,7 +4065,7 @@
       "qty": 6,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4088,7 +4088,7 @@
       "qty": 15,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4111,7 +4111,7 @@
       "qty": 6,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4134,7 +4134,7 @@
       "qty": 15,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4157,7 +4157,7 @@
       "qty": 2,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4180,7 +4180,7 @@
       "qty": 9,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4203,7 +4203,7 @@
       "qty": 2,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4226,7 +4226,7 @@
       "qty": 10,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4249,7 +4249,7 @@
       "qty": 2,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4272,7 +4272,7 @@
       "qty": 6,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4295,7 +4295,7 @@
       "qty": 3,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4318,7 +4318,7 @@
       "qty": 9,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4341,7 +4341,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4364,7 +4364,7 @@
       "qty": 25,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4387,7 +4387,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4410,7 +4410,7 @@
       "qty": 5,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4433,7 +4433,7 @@
       "qty": 5,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4456,7 +4456,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4479,7 +4479,7 @@
       "qty": 7,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4502,7 +4502,7 @@
       "qty": 7,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4525,7 +4525,7 @@
       "qty": 2,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4548,7 +4548,7 @@
       "qty": 18,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4571,7 +4571,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4594,7 +4594,7 @@
       "qty": 4,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4617,7 +4617,7 @@
       "qty": 4,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4635,12 +4635,12 @@
       "name": "Banquette Opt A (183') (REFRESH ONLY) ",
       "price": 0,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4658,12 +4658,12 @@
       "name": "Vinyl at Banquette (22 y/ea) ",
       "price": 0,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "YDS",
       "qty": 0,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4681,12 +4681,12 @@
       "name": "Banquette Opt B (128') (REFRESH ONLY) ",
       "price": 0,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4704,12 +4704,12 @@
       "name": "Vinyl at Banquette (18 y/ea) ",
       "price": 0,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "YDS",
       "qty": 0,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4732,7 +4732,7 @@
       "qty": 15,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4755,7 +4755,7 @@
       "qty": 52,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4778,7 +4778,7 @@
       "qty": 136,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4801,7 +4801,7 @@
       "qty": 82,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4824,7 +4824,7 @@
       "qty": 31,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4847,7 +4847,7 @@
       "qty": 2,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4870,7 +4870,7 @@
       "qty": 2,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4893,7 +4893,7 @@
       "qty": 2,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4916,7 +4916,7 @@
       "qty": 2,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4939,7 +4939,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4962,7 +4962,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -4985,7 +4985,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5008,7 +5008,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5031,7 +5031,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5054,7 +5054,7 @@
       "qty": 2,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5077,7 +5077,7 @@
       "qty": 2,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5100,7 +5100,7 @@
       "qty": 0,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5123,7 +5123,7 @@
       "qty": 1258,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5146,7 +5146,7 @@
       "qty": 1834,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5169,7 +5169,7 @@
       "qty": 235,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5192,7 +5192,7 @@
       "qty": 17,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5215,7 +5215,7 @@
       "qty": 311,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5238,7 +5238,7 @@
       "qty": 2432,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5261,7 +5261,7 @@
       "qty": 138,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5284,7 +5284,7 @@
       "qty": 193,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5307,7 +5307,7 @@
       "qty": 685,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5330,7 +5330,7 @@
       "qty": 1111,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5353,7 +5353,7 @@
       "qty": 535,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5376,7 +5376,7 @@
       "qty": 8,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5399,7 +5399,7 @@
       "qty": 4,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5417,12 +5417,12 @@
       "name": "Lobby Lounge,Corridors, MeetingRoom, Board Room",
       "price": 0,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "SQFT",
       "qty": 0,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5440,12 +5440,12 @@
       "name": "Public Restrooms,Fitness Center, BOH ",
       "price": 0,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "SQFT",
       "qty": 0,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5468,7 +5468,7 @@
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5491,7 +5491,7 @@
       "qty": 353,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5514,7 +5514,7 @@
       "qty": 2,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5532,12 +5532,12 @@
       "name": "24' Grab Bar ",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5550,7 +5550,7 @@
     },
     {
       "category": "PUBLIC RESTROOM ACCESSORIES",
-      "image": "assets/king/pPRR-011-G1-42.png",
+      "image": "assets/king/pPRR-011 / G1-42.png",
       "specno": "PRR-011 / G1-42",
       "name": "42' Grab Bar ",
       "price": 120.00,
@@ -5560,7 +5560,7 @@
       "qty": 2,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5583,7 +5583,7 @@
       "qty": 2,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5606,7 +5606,7 @@
       "qty": 2,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5624,12 +5624,12 @@
       "name": "Front Desk",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5647,12 +5647,12 @@
       "name": "Main Buffet Station",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5670,12 +5670,12 @@
       "name": "Side Buffet Station",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 2,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5693,12 +5693,12 @@
       "name": "House Computer Counter",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5716,12 +5716,12 @@
       "name": "Kitchenette @ Staff Lounge",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5739,12 +5739,12 @@
       "name": "Storage cabinets @ Staff Lounge",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5762,12 +5762,12 @@
       "name": "Quartz Top  @ Bar Height Communal Table (White snow Marstone - WSWM-150) (Per spec)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5785,12 +5785,12 @@
       "name": "Quartz Top  @ L-Shaped Communal Table  (White snow Marstone - WSWM-150)  (Per spec)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5808,12 +5808,12 @@
       "name": "Quartz top @Public restroom vanity (Galaxy granite white sesame) (To match White Snow Marstone)",
       "price": 0,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5831,12 +5831,12 @@
       "name": "Quartz Top  @ Main Buffet Station (Caesarstone 4100 Belgium moon) (To match White Snow Marstone)",
       "price": 0,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5854,12 +5854,12 @@
       "name": "Quartz Top  @ Side Buffet Station  (Caesarstone 4100 Belgium moon) (To match White Snow Marstone)",
       "price": 0,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5877,12 +5877,12 @@
       "name": "Quartz Top  @ Front desk (Caesarstone - 3141 Blizzard) (To match White Snow Marstone)",
       "price": 0,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5900,12 +5900,12 @@
       "name": "Quartz Top @ Transaction ledge (Caesarstone - 3141 Blizzard) (To match White Snow Marstone)",
       "price": 0,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5923,12 +5923,12 @@
       "name": "Quartz Top @ Staff lounge Kitchenette (To match White Snow Marstone)",
       "price": 0,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
         "King Standard",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "King Accessible Roll in Shower",
         "King Accessible Tub",
@@ -5946,7 +5946,7 @@
       "name": "Wood Frame @ Fitness Center Mirror ( Wall to Wall) - (Not provided by GV)",
       "price": 0,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -5964,7 +5964,7 @@
       "name": "Pool Deck",
       "price": 0,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 1,
       "roomCategory": [
@@ -5982,7 +5982,7 @@
       "name": "Grill, Built In",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6000,7 +6000,7 @@
       "name": "Pavers",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6018,7 +6018,7 @@
       "name": "Fire Pit",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6036,7 +6036,7 @@
       "name": " Laundry Machines",
       "price": 0,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6054,7 +6054,7 @@
       "name": "Kitchen Equipment",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6072,7 +6072,7 @@
       "name": "Light Bulbs",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6090,7 +6090,7 @@
       "name": "Ceiling Recessed Light",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6108,7 +6108,7 @@
       "name": "Fitness Center Water Cooler ( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6126,7 +6126,7 @@
       "name": "Towel Drop  ( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6144,7 +6144,7 @@
       "name": "Cup Dispenser  ( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6162,7 +6162,7 @@
       "name": "Stainless wipe Dish ( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6180,7 +6180,7 @@
       "name": "Equipmet Wipes  ( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6198,7 +6198,7 @@
       "name": "Fitness Center Equipment - Threadmill ( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6216,7 +6216,7 @@
       "name": "Fitness Center Equipment - Elliptical ( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6234,7 +6234,7 @@
       "name": "Fitness Center Equipment - Spin Bike ( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6252,7 +6252,7 @@
       "name": "Fitness Center Equipment - Stretch Trainer ( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6270,7 +6270,7 @@
       "name": "Fitness Center Equipment - Training System  ( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6288,7 +6288,7 @@
       "name": "Fitness Center Equipment - Exercise Bench ( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6306,7 +6306,7 @@
       "name": "Fitness Center Equipment - Dumbell Rack ( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6324,7 +6324,7 @@
       "name": "Fitness Center Equipment - Stability Ball ( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6342,7 +6342,7 @@
       "name": "Fitness Center Equipment - Yoga Mats ( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6360,7 +6360,7 @@
       "name": "Fitness Center Equipment - Medicine Ball Rack ( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6378,7 +6378,7 @@
       "name": "Fitness Center Equipment - Medicine Balls ( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6396,7 +6396,7 @@
       "name": "TV ( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6414,7 +6414,7 @@
       "name": "TV Bracket( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6432,7 +6432,7 @@
       "name": "Breakfast Bar Equipment ( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6450,7 +6450,7 @@
       "name": "Sundry Shop equipment ( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6468,7 +6468,7 @@
       "name": "Computer @ Print Station ( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6486,7 +6486,7 @@
       "name": "Printer @ Print Station ( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6504,7 +6504,7 @@
       "name": "Fireplace @ Great room ( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6522,7 +6522,7 @@
       "name": "Trash Receptable @ Public Restrooms ( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6540,7 +6540,7 @@
       "name": "TV @ Meeting Room ( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6558,7 +6558,7 @@
       "name": "TV Wall Mounting Bracket @ Meeting Room ( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6576,7 +6576,7 @@
       "name": "Wall Clock @ Fitness Center ( Not Provided By GV)",
       "price": 0.00,
       "brand": "Wingate",
-      "addProduct": false,
+      "addProduct": true,
       "unit": "EA",
       "qty": 0,
       "roomCategory": [
@@ -6598,14 +6598,14 @@
       "category": "CASE GOODS",
       "roomCategory": [
        "King Accessible Roll in Shower",
-        "King Standard (13 Bay)",
+         "King Standard (13\" Bay)",
         "King Suite",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
+        "Double Queen Standard (13\")",
         "Double Queen Accessible Tub",
         "King Accessible Tub",
         "King Suite Accessible Tub",
-        "Double Queen Extended (13 Bay)"
+        "Double Queen Extended (13\" Bay)"
        
       ],
       "piece": [
@@ -6669,8 +6669,8 @@
         "King Suite",
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
-        "Double Queen Extended (13 Bay)"
+        "Double Queen Standard (13\")",
+        "Double Queen Extended (13\" Bay)"
       ],
       "piece": [
         "GuestRoom",
@@ -6729,7 +6729,7 @@
       "category": "RESILIENT FLOORING",
       "roomCategory": [
         "Double Queen Extended",
-        "Double Queen Extended (13 Bay)"
+        "Double Queen Extended (13\" Bay)"
       ],
       "piece": [
         "GuestRoom",
@@ -6778,7 +6778,7 @@
       "category": "WALL COVERINGS",
       "roomCategory": [
        "Double Queen Extended",
-       "Double Queen Extended (13 Bay)"
+       "Double Queen Extended (13\" Bay)"
       ],
       "piece": [
         "GuestRoom",
@@ -6799,9 +6799,9 @@
       "roomCategory": [
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
+        "Double Queen Standard (13\")",
         "Double Queen Accessible Tub",
-        "Double Queen Extended (13 Bay)"
+        "Double Queen Extended (13\" Bay)"
       ],
       "piece": [
         "GuestRoom",
@@ -6822,9 +6822,9 @@
       "roomCategory": [
         "Double Queen",
         "Double Queen Extended",
-        "Double Queen Standard (13)",
+        "Double Queen Standard (13\")",
         "Double Queen Accessible Tub",
-        "Double Queen Extended (13 Bay)"
+        "Double Queen Extended (13\" Bay)"
       ],
       "piece": [
         "GuestRoom",
@@ -7064,16 +7064,10 @@
       "brand": "Wingate",
       "category": "WALL COVERINGS",
       "roomCategory": [
-      
-        
         "Double Queen",
-        
-        "Double Queen Standard (13)",
-        
-        
+        "Double Queen Standard (13\")",
         "King Accessible Roll in Shower",
         "King Accessible Tub"
-        
       ],
       "piece": [
         "GuestRoom",
@@ -7082,10 +7076,13 @@
       "id": 307,
       "price": 274.45
     }
+    
   ],
   "userEnquiry": [
     {
-      
+      "name":"rahul",
+      "email":"rahulb310@gmail.com",
+      "mobile":9876543219
     }
   ],
   "admin": [
